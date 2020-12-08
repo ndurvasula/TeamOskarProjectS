@@ -7,6 +7,7 @@ The notebook *Inverse Square Law.ipynb* contains all code needed to reproduce th
 - pandas
 - scikit-learn
 - astropy
+- shap
 - JPL Solar System Ephemeris extension for astropy
 
 By modifying the *planets* list defined in the first block of code, along with the corresponding dictionary *days*, data for different planets will automatically be pulled from the JPL Solar System Ephemeris and the remainder of the code will provide a similar analysis for these new planets. 
